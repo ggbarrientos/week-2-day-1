@@ -89,7 +89,9 @@ print(blue_beetle_summary.replace("blue","red"))
 print(blue_beetle_summary)
 print(blue_beetle_summary.find("Bettle"))
 print(blue_beetle_summary[-7:])
+print(blue_beetle_summary[::-1])
 
+#typing more to push to github
 
 
 # String Practice #1: try this in repl.it
